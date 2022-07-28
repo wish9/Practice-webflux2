@@ -1,7 +1,7 @@
 package com.codestates.member.dto;
 
 import com.codestates.member.entity.Member;
-import com.codestates.member.validator.NotSpace;
+import com.codestates.validator.NotSpace;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

@@ -1,4 +1,4 @@
-package com.codestates.member.validator;
+package com.codestates.validator;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;
